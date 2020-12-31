@@ -1,2 +1,2 @@
-# mywebsite_27-12-2020
+# thkhll.github.io
  this is my first website hosted on GitHub
